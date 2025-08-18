@@ -1,0 +1,26 @@
+h3{
+    text-decoration: dotted;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px;
+}
+
+h1{
+    background-color:  #d09800;
+}
+
+body{
+    margin: top 25px;;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-top: 5pt;
+    border-bottom: 5pt;
+    border-left: 5pt;
+    border-right: 5pt;
+    border-color: black;
+    background-color: blanchedalmond;
+}
+
+
+
+
